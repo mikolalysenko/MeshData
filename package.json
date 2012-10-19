@@ -1,0 +1,23 @@
+{
+  "name": "mesh_data",
+  "version": "0.0.1",
+  "description": "Some common freely available triangulated meshes, collected from various places around the net",
+  "main": "index.js",
+  "author": {
+    "name": "Mikola Lysenko",
+    "email": "mikolalysenko@gmail.com",
+    "url": "http://0fps.net"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mesh",
+    "surface",
+    "triangle",
+    "3d",
+    "bunny"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
